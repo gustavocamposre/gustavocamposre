@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gustavocamposre
 - 👀 I’m interested in  aprender e compartilhar códigos.
-- 🌱 I’m currently learning  HTML, CSS e JavaScript.
+- 🌱 I’m currently learning  C#, HTML, CSS e JavaScript.
 - 💞️ I’m looking to collaborate com o desenvolvimento de páginas da web.
 - 📫 How to reach me : gustavocamposre@hotmail.com
 
